@@ -7,7 +7,7 @@ step 1：使用preprocess切分预处理数据集，先使用split_nii.py切分n
 
 step 2：使用train.py训练，训练曲线存储在runs，训练过程保存的图像翻译图片保存在images
 
-step 3：使用test.py测试，图像结果存储在results
+step 3：使用test.py测试，图像结果存储在result
 
 step 4：使用result/calculate.py测试fid图像生成指标分数
 
