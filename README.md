@@ -1,0 +1,2 @@
+# CycleGAN-CrossMoDA2022
+基于CycleGAN的MRI中T1模态和T2模态图像翻译
